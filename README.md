@@ -12,15 +12,13 @@ For the purposes of historical inquiry, teaching, and my own bizarre idea of fun
 1. Direct transcriptions of Krutch's programs as they was originally published in 1982
 2. Ports of these programs to Applesoft BASIC, designed to run on Joshua Bell's jsbasic
 
-For now, the only thing I won't be adding is the text of the book itself. I only have a flatbed scanner at the moment and I don't think the binding on my copy will survive the scanning process. If you have access to a book scanner and would like to to make a PDF, let me know and I'll loan you my copy by mail.
-
 ## Summary
 
 - Chapter 1: **KINGMOVE**, A chess king finds the shortest path between two squares on a 3x3 board
 
 ## References
 
-- John Krutch. *Experiments in Artificial Intelligence for Small Computers.* Indianapolis, IN: Howard W. Sams & Co., Inc., 1982.
+- John Krutch. *[Experiments in Artificial Intelligence for Small Computers](https://archive.org/details/krutch-experiments_in_artificial_intelligence_for_small_computers-1981).* Indianapolis, IN: Howard W. Sams & Co., Inc., 1982. https://archive.org/details/krutch-experiments_in_artificial_intelligence_for_small_computers-1981
 - "Review: Experiments in Artificial Intelligence for Small Computers by John Krutch." *Popular Electronics* (June, 1982): 90. http://www.americanradiohistory.com/Archive-Poptronics/80s/1982/Poptronics-1982-06.pdf.
 
 ## Useful links
