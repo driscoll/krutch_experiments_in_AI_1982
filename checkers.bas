@@ -1,17 +1,17 @@
-1 ' CHECKERS, Vers. 1.1
+1 '             CHECKERS, Vers. 1.1
 2 CLEAR 1500
 
-10 ' Supervisor
-20 GOSUB 130 ' Initialization
-30 GOSUB 230 ' Set array to initial piece configuration
-40 GOSUB 970 ' Computer's first move
-50 GOSUB 450 ' Draw checkerboard
-60 GOSUB 570 ' Print nos on squares & crnt arngmt pieces
-70 GOSUB 780 ' Input
-80 GOSUB 840 ' Change array to reflect new posn of pieces
+10 '            Supervisor
+20 GOSUB 130        ' Initialization
+30 GOSUB 230        ' Set array to initial piece configuration
+40 GOSUB 970        ' Computer's first move
+50 GOSUB 450        ' Draw checkerboard
+60 GOSUB 570        ' Print nos. on squares & crnt arngmt pieces
+70 GOSUB 780        ' Input
+80 GOSUB 840        ' Change array to reflect new posn of pieces
 90 GOSUB 570
-100 IF M$ = "X" THEN GOTO 70 ' Double and triple jumps
-110 GOSUB 1040 ' Evaluatino routine
+100 IF M$ = "X" THEN GOTO 70       ' Double and triple jumps
+110 GOSUB 1040      ' Evaluatino routine
 120 GOTO 60
 
 130 ' Initialization
@@ -74,8 +74,8 @@
 680 L = 133
 690 FOR I = 8 TO 2 STEP -2
 700 FOR J = 2 TO 8 STEP 2
-710 PRINT @ l, RIGHT$(STR$(I), 1) RIGHT$(STR$(J), 1);
-720 PRINT @ J + 61, T$(I, J);
+710 PRINT @ L, RIGHT$(STR$(I), 1) RIGHT$(STR$(J), 1);
+720 PRINT @ L + 61, T$(I, J);
 730 L = L + 16
 740 NEXT J
 750 L = L + 192
@@ -91,7 +91,7 @@
 
 840 ' Change the array to reflect new board position
 850 I = VAL(LEFT$(B$, 1)): J = VAL(MID$(B$, 2, 1))
-860 K = VALU(MID$(B$, 4, 1)): L = VAL(RIGHT$(B$, 1))
+860 K = VAL(MID$(B$, 4, 1)): L = VAL(RIGHT$(B$, 1))
 870 M$ = MID$(B$, 3, 1)
 880 IF K = I - 2 AND L = J - 2 THEN T$(K, L) = KWH$: T$(I, J) = X$: T$(I - 1, J - 1) = X$: GOTO 960
 890 IF K = I - 2 AND L = J + 2 THEN T$(K, L) = KWH$: T$(I, J) = X$: T$(I - 1, J + 1) = X$: GOTO 960
@@ -145,5 +145,5 @@
 1340 NEXT J, I
 1350 ' Reset edges of array to the empty string 
 1360 FOR I = 0 TO 1: FOR J = 0 TO 1: T$(I, J) = "": NEXT J, I
-1370 FOR I 10 TO 11: FOR J = 10 TO 11: T$(I, J) = "": NEXT J, I
+1370 FOR I = 10 TO 11: FOR J = 10 TO 11: T$(I, J) = "": NEXT J, I
 1380 RETURN
