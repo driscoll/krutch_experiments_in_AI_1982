@@ -24,7 +24,7 @@ For the purposes of historical inquiry, teaching, and my own bizarre idea of fun
 ## Useful links
 
 - [TRS-80 Model III emulator](https://www.my-trs-80.com/) by Lawrence Kestleloot ([source](https://github.com/lkesteloot/trs80))
-- [TRS-80 Model I Level 2 BASIC Language Reference](http://www.trs-80.com/trs80-info-level2.htm) by Joe Ganley, 1997
+- [TRS-80 Model I Level 2 BASIC Language Reference](http://web.archive.org/web/20080828023652/http://www.trs-80.com/trs80-info-level2.htm) by Joe Ganley, 1997
 - [Applesoft BASIC in JavaScript](https://github.com/inexorabletash/jsbasic) by Joshua Bell
 - [Applesoft BASIC FAQ](http://apple2.info/wiki/index.php?title=Applesoft_BASIC)
 - [TRS-80 Fonts and Unicode](http://members.shaw.ca/gp2000/fonts.html)
