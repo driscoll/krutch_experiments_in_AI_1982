@@ -15,6 +15,9 @@ For the purposes of historical inquiry, teaching, and my own bizarre idea of fun
 ## Summary
 
 - Chapter 1: **KINGMOVE**, A chess king finds the shortest path between two squares on a 3x3 board
+- Chapter 2: **CHECKERS**, Play checkers against the computer
+- Chapter 3: **TF**, Pattern recognition program predicts the next character you will type
+- Chapter 4: **FETCH**, A logic program that makes deductions based on the principle of the hypothetical syllogism
 
 ## References
 
