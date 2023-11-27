@@ -18,6 +18,7 @@ For the purposes of historical inquiry, teaching, and my own bizarre idea of fun
 - Chapter 2: **CHECKERS**, Play checkers against the computer
 - Chapter 3: **TF**, Pattern recognition program predicts the next character you will type
 - Chapter 4: **FETCH**, A logic program that makes deductions based on the principle of the hypothetical syllogism
+- Chapter 5: **HAIKU**, A poetry generator based on the rules of haiku and random  from a word bank
 
 ## References
 
