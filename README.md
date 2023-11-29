@@ -25,7 +25,7 @@ For the purposes of historical inquiry, teaching, and my own bizarre idea of fun
 
 The transcribed code in this repository matches the code that appeared in the 1981 edition of the book. There are zero showstopper bugs in the book (to the credit of the author, editor, and publisher!) but that doesn't mean you won't run into some quirky behavior. In the interest of accuracy, I have chosen not to make any changes or corrections. Rather, I am using this space to document these edge cases as they arise.
 
-- **AUTOWRITER** will occasionally assemble a sentence that exceeds the maximum string length of 255 characters. If this happens, the program will crash with error code 15 ("LS" or "String too long.") One way to fix this bug is to check the length of the sentence using LEN(SENT$) between line 170 and 180. If the length is over some threshold, then skip the "Another preposition?" subroutine by jumping to 200.
+- **AUTOWRITER** will occasionally assemble a sentence that exceeds the maximum string length of 255 characters. If this happens, the program will crash with error code 15 ("LS" or "String too long.") One way to fix this bug is to check the length of the sentence using LEN(SENT$) between line 170 and 180. If the length is over some threshold, then skip the "Another preposition?" subroutine by jumping to line 200.
 
 ## References
 
