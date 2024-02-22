@@ -20,6 +20,7 @@ For the purposes of historical inquiry, teaching, and my own bizarre idea of fun
 - Chapter 4: **FETCH**, A logic program that makes deductions based on the principle of the hypothetical syllogism
 - Chapter 5: **HAIKU**, A poetry generator based on the rules of haiku and random draws from a word bank
 - Chapter 6: **AUTOWRITER**, A sci-fi story generator based on constrained sentence construction and a strategically-constructed word bank
+- Chapter 7: **DOCTOR**, A natural language chatbot in the spirit of ELIZA/DOCTOR
 
 ## Bugs
 
