@@ -14,6 +14,8 @@ For the purposes of historical inquiry, teaching, and my own bizarre idea of fun
 
 ## Summary
 
+### First edition
+
 - Chapter 1: **KINGMOVE**, A chess king finds the shortest path between two squares on a 3x3 board
 - Chapter 2: **CHECKERS**, Play checkers against the computer
 - Chapter 3: **TF**, Pattern recognition program predicts the next character you will type
@@ -21,6 +23,11 @@ For the purposes of historical inquiry, teaching, and my own bizarre idea of fun
 - Chapter 5: **HAIKU**, A poetry generator based on the rules of haiku and random draws from a word bank
 - Chapter 6: **AUTOWRITER**, A sci-fi story generator based on constrained sentence construction and a strategically-constructed word bank
 - Chapter 7: **DOCTOR**, A natural language chatbot in the spirit of ELIZA/DOCTOR
+
+### Second edition
+
+- Chapter 1: **KINGMOVE**, A chess king finds the shortest path between two squares on a 3x3 board
+- Chapter 2: **CHECKERS**, Play checkers against the computer
 
 ## Bugs
 
