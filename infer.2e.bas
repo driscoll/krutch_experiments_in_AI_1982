@@ -85,7 +85,7 @@
 700 rem       b. data retrieval
 710 for i = 0 to 9
 720 : if a$(0,i) = dl$ then goto 750
-730 : if a$(0,i) = "x" then print             "i don' t know.": goto 820
+730 : if a$(0,i) = "x" then print             "i don't know.": goto 820
 740 next i
 750 for i = 1 to 9
 760 : for j = 0 to 9
@@ -104,11 +104,11 @@
 870 for i = 0 to 9
 880 : if a$(0,i) = dl$ then 910
 890 next i
-900 print "i have no data concerning "     dl$ ".": goto 960
+900 print "i have no data concerning "      dl$ ".": goto 960
 910 print dl$ " is--"
 920 for j = 1 to 9
 930 : if a$(j,i) = "x" then 960
-940 : printa$(j,i)
+940 : print a$(j,i)
 950 next j
 960 return
 970 rem--------------------------------
