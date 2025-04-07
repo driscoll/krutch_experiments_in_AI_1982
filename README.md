@@ -1,4 +1,4 @@
-# Experiments in Artificial Intelligence by John Krutch (1982)
+# Experiments in Artificial Intelligence (1979-1987)
 
 Much like today, the early 1980s were a boom time for artificial intelligence but most of the action in A.I. was outside the grasp of the typical microcomputer owner. As *Popular Electronics* put it in 1982: "Artificial Intelligence (AI) is usually associated with big main-frame computers and exotic programming that only a few academics can understand" (90). 
 
@@ -28,6 +28,7 @@ For the purposes of historical inquiry, teaching, and my own bizarre idea of fun
 
 - Chapter 1: **KINGMOVE**, A chess king finds the shortest path between two squares on a 3x3 board
 - Chapter 2: **CHECKERS**, Play checkers against the computer
+- TBD
 
 ## Bugs
 
