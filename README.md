@@ -45,6 +45,7 @@ The transcribed code in this repository matches the code that appeared in the 19
 
 - [TRS-80 Model III emulator](https://www.my-trs-80.com/) by Lawrence Kestleloot ([source](https://github.com/lkesteloot/trs80))
 - [TRS-80 Model I Level 2 BASIC Language Reference](http://web.archive.org/web/20080828023652/http://www.trs-80.com/trs80-info-level2.htm) by Joe Ganley, 1997
+- [Apple IIe Emulator in the browser](https://www.scullinsteel.com/apple//e) by Will Scullin, 2019
 - [Applesoft BASIC in JavaScript](https://github.com/inexorabletash/jsbasic) by Joshua Bell
 - [Applesoft BASIC FAQ](http://apple2.info/wiki/index.php?title=Applesoft_BASIC)
 - [TRS-80 Fonts and Unicode](http://members.shaw.ca/gp2000/fonts.html)
