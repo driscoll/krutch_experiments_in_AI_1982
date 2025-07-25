@@ -45,6 +45,9 @@ The transcribed code in this repository matches the code that appeared in the 19
 
 - [TRS-80 Model III emulator](https://www.my-trs-80.com/) by Lawrence Kestleloot ([source](https://github.com/lkesteloot/trs80))
 - [TRS-80 Model I Level 2 BASIC Language Reference](http://web.archive.org/web/20080828023652/http://www.trs-80.com/trs80-info-level2.htm) by Joe Ganley, 1997
+- [VICE Commodore 64 emulator](https://vice-emu.sourceforge.io/), reference for the 2nd edition code
+- [C64 &amp; VIC20 Keyboard Map](https://vice-emu.sourceforge.io/vice_1.html#SEC11)
+- [petcat](https://vice-emu.sourceforge.io/vice_15.html), tool for tokenizing BASIC code for the C64
 - [Apple IIe Emulator in the browser](https://www.scullinsteel.com/apple//e) by Will Scullin, 2019
 - [Applesoft BASIC in JavaScript](https://github.com/inexorabletash/jsbasic) by Joshua Bell
 - [Applesoft BASIC FAQ](http://apple2.info/wiki/index.php?title=Applesoft_BASIC)
