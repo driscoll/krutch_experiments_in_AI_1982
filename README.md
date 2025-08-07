@@ -28,7 +28,17 @@ For the purposes of historical inquiry, teaching, and my own bizarre idea of fun
 
 - Chapter 1: **KINGMOVE**, A chess king finds the shortest path between two squares on a 3x3 board
 - Chapter 2: **CHECKERS**, Play checkers against the computer
-- TBD
+- Chapter 3: **TF**, Pattern recognition program predicts the next character you will type
+- Chapter 4: **INFER**, A logic program that makes deductions based on the principle of the hypothetical syllogism
+- Chapter 5: TBD
+- Chapter 6: **HAIKU**, A poetry generator based on the rules of haiku and random draws from a word bank
+- Chapter 7: **AUTOWRITER**, A sci-fi story generator based on constrained sentence construction and a strategically-constructed word bank
+- Chapter 8: **DOCTOR**, A natural language chatbot in the spirit of ELIZA/DOCTOR
+- Chapter 9: **EXP SYS DEMO**, A small scale introduction to expert systems
+
+### Magazine articles
+
+- **HAIKU**, earlier version of the haiku composer, published in 1979 by **Kilobaud Microcomputing**
 
 ## Bugs
 
@@ -38,8 +48,17 @@ The transcribed code in this repository matches the code that appeared in the 19
 
 ## References
 
+### Books
+
 - John Krutch. *[Experiments in Artificial Intelligence for Small Computers](https://archive.org/details/krutch-experiments_in_artificial_intelligence_for_small_computers-1981).* Indianapolis, IN: Howard W. Sams & Co., Inc., 1982. https://archive.org/details/krutch-experiments_in_artificial_intelligence_for_small_computers-1981
+
+### Book reviews
+
 - "Review: Experiments in Artificial Intelligence for Small Computers by John Krutch." *Popular Electronics* (June, 1982): 90. http://www.americanradiohistory.com/Archive-Poptronics/80s/1982/Poptronics-1982-06.pdf.
+
+### Magazine articles
+
+- Krutch, John. “[Haiku Composer](https://archive.org/details/kilobaudmagazine-1979-08/page/n79).” Kilobaud Microcomputing, August 1979, 80–82. 
 
 ## Useful links
 
